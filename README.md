@@ -6,4 +6,4 @@
 - 💁🏽‍♂️ I will be sharing my learning in software development here
 - 👨🏽‍💻 Currently learning mobile development
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=solusisadev)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=solusisadev&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
