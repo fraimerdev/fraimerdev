@@ -2,11 +2,12 @@
 🏠 From the Dominican Republic and grew up in Saint Kitts<br>💻 I am an aspiring Software engineer/Tech Enthusiast!<br>🏫 Currently attending the Basseterre High School<br>💁🏽‍♂️ I will be sharing my learning in software development here<br>👨🏽‍💻 Currently learning mobile development
 
 
-# 💻 Technologies and Tools
-<p>
+### 💻 Technologies and Tools
+<p align="center>
   <img href="skillicons.dev/icons?i=js,ts,py,mongodb,react,nextjs,prisma,discord,discordjs,bots,django,express,flask,git,github,pycharm,supabase,tailwind,vscode,yarn,zig"/>
 </p>
-# 📊 GitHub Stats
+
+### 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=fraimerr&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fraimerr&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fraimerr&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
