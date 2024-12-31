@@ -1,5 +1,5 @@
 # 💫 Hey! I am Fraimer
-🏠 From the Dominican Republic and grew up in Saint Kitts<br>💻 I am an aspiring Software engineer/Tech Enthusiast!<br>🏫 Currently attending the Basseterre High School<br>💁🏽‍♂️ I will be sharing my learning in software development here<br>👨🏽‍💻 Currently learning mobile development
+🏠 From the Dominican Republic and grew up in Saint Kitts<br>💻 I am an aspiring Software engineer/Tech Enthusiast!<br>💁🏽‍♂️ I will be sharing my learning in software development here<br>👨🏽‍💻 Currently learning mobile development
 
 
 ### 💻 Technologies and Tools
