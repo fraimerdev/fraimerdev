@@ -4,7 +4,7 @@
 
 ### 💻 Technologies and Tools
 <p align="center>
-  <img href="skillicons.dev/icons?i=js,ts,py,mongodb,react,nextjs,prisma,discord,discordjs,bots,django,express,flask,git,github,pycharm,supabase,tailwind,vscode,yarn,zig"/>
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 </p>
 
 ### 📊 GitHub Stats
