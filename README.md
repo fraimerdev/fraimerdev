@@ -3,7 +3,7 @@
 
 
 ### 💻 Technologies and Tools
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py,html,css,bun,nodejs,react,nextjs,express,git,mongodb,tailwind,discord,discordjs,zig,vscode,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,html,css,bun,nodejs,react,nextjs,vite,express,git,mongodb,tailwind,discord,discordjs,zig,vscode,windows,github,cloudflare,supabase)](https://skillicons.dev)
 
 
 ### 📊 GitHub Stats
