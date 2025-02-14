@@ -1,5 +1,5 @@
 # 💫 Hey! I am Fraimer
-💻 I am an aspiring Software engineer/Tech Enthusiast!<br>💁🏽‍♂️ I will be sharing my learning in software development here<br>👨🏽‍💻 Currently interested in advancing my web development knowledge
+I am an aspiring Software engineer/Tech Enthusiast! I will be sharing my learning in software development and projects here. Currently I focused on advancing my knowledge in software development.
 
 ### 💻 Technologies and Tools I use
 [![My Skills](https://skillicons.dev/icons?i=js,ts,py,html,css,bun,nodejs,react,nextjs,vite,express,git,mongodb,tailwind,discord,discordjs,zig,vscode,windows,github,cloudflare,supabase)](https://skillicons.dev)
