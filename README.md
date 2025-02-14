@@ -7,8 +7,5 @@ I am an aspiring Software engineer/Tech Enthusiast! I will be sharing my learnin
 ## My Projetcs
 [Trustify](https://www.trustify.gg/) - A Discord bot focused on gathering feedback from communities in the form of reviews.
 
-### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=fraimerr&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=fraimerr&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fraimerr&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=fraimerr&theme=radical&hide_border=false)
 
