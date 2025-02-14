@@ -6,6 +6,6 @@ I am an aspiring Software engineer/Tech Enthusiast! I will be sharing my learnin
 
 ### My Projetcs
 [Trustify](https://www.trustify.gg/) - A Discord bot focused on gathering feedback from communities in the form of reviews.
-
+<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fraimerr&theme=radical&hide_border=false)
 
