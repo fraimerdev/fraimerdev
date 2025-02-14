@@ -1,4 +1,4 @@
-# 💫 Hey! I am Fraimer
+# 👋 Hey! I am Fraimer
 I am an aspiring Software engineer/Tech Enthusiast! I will be sharing my learning in software development and projects here. Currently I focused on advancing my knowledge in software development.
 ### My Projetcs
 [Trustify](https://www.trustify.gg/) - A Discord bot focused on gathering feedback from communities in the form of reviews.
