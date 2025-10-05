@@ -2,6 +2,8 @@
 
 I am an aspiring Software engineer/Tech Enthusiast! I will be sharing my learning in software development and projects here. Currently I focused on advancing my knowledge in software development.
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J3DXCPM)
+
 ---
 
 ### My Projects
